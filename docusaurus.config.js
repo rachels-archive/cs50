@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Notes by Rachel',
-  tagline: 'CS50x2023 Notes, Solutions and Project showcase',
+  tagline: 'CS50x 2023 Notes, Solutions and Project showcase',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
