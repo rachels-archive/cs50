@@ -21,7 +21,8 @@ const config = {
   organizationName: 'rachels-archive', // Usually your GitHub org/user name.
   projectName: 'cs50', // Usually your repo name.
 
-
+  trailingSlash: false,
+  deploymentBranch: 'gh-pages',
   
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
