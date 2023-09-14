@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcs_50=self.webpackChunkcs_50||[]).push([[5314],{5236:s=>{s.exports=JSON.parse('{"label":"hello","permalink":"/cs50/blog/tags/hello","allTagsPath":"/cs50/blog/tags","count":2}')}}]);
