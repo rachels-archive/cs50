@@ -21,9 +21,8 @@ const config = {
   organizationName: 'rachels-archive', // Usually your GitHub org/user name.
   projectName: 'cs50', // Usually your repo name.
 
-  deploymentBranch: 'gh-pages',
-  trailingSlash: false,
 
+  
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
@@ -47,15 +46,13 @@ const config = {
           //editUrl:
           //  'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        blog: false,
-        /*{
+        blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        */
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
